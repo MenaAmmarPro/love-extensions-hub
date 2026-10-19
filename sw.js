@@ -1,6 +1,6 @@
 "use strict";
 
-const CACHE = "love-hug-v2";
+const CACHE = "love-extensions-hub-v1";
 const ASSETS = [
   ".",
   "index.html",
@@ -45,3 +45,4 @@ self.addEventListener("fetch", (event) => {
     })
   );
 });
+
